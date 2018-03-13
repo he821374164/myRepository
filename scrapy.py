@@ -1,1 +1,1 @@
-asdasdasd
+print('爬虫')
